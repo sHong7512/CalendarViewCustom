@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">practice_CalendarView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="example_3_title">Example 3</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="input_dialog_title">Enter event title</string>
+    <string name="empty_input_text">Text is empty</string>
+    <string name="dialog_delete_confirmation">Delete this event?</string>
+    <string name="delete">Delete</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+    <string name="clear">Clear</string>
+    <string name="week_mode">Week mode</string>
+</resources>
