@@ -1,8 +1,8 @@
 # CalendarView Custom
 
 - CalendarView(by kizitonwose) Custom (with example3)
-- Viewbinding, RecyclerView, Fragment 등 선행 이해 필요
-- Fragment형식으로 구현
+- Viewbinding, RecyclerView, Fragment, databinding 등 선행 이해 필요
+- 두가지 형식으로 구현(Fragment, Activity)
 - 날짜별 event개수에 따른 dot생성 구현
 - 쉬운 이해를 위해 kotlinExtension 제거
 - 참조 : https://github.com/kizitonwose/CalendarView

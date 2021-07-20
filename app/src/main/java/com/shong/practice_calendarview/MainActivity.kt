@@ -1,5 +1,6 @@
 package com.shong.practice_calendarview
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.shong.practice_calendarview.databinding.ActivityMainBinding
@@ -20,6 +21,10 @@ class MainActivity : AppCompatActivity() {
                 addToBackStack(fragment.javaClass.simpleName)
                 commit()
             }
+        }
+
+        binding.button2.setOnClickListener {
+            startActivity(Intent(this,CalendarActivity::class.java))
         }
     }
 }
